@@ -1,0 +1,38 @@
+_repo: Two-Maiden-Aunts_30498
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammond, Gertrude Demain
+    aliases:
+    - Hammond, G. M. D.
+    - Hammond, G. Demain
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '34646'
+    url: http://www.gutenberg.org/2009/agents/34646
+covers:
+- cover_type: archival
+  image_path: 30498-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Debenham, Mary H.
+    gutenberg_agent_id: '34645'
+    url: http://www.gutenberg.org/2009/agents/34645
+description: ''
+gutenberg_issued: '2009-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Two Maiden Aunts
+url: http://www.gutenberg.org/ebooks/30498
